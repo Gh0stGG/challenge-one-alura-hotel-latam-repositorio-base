@@ -14,9 +14,9 @@ public class ConnectionFactory{
 	//metodo que genera las conexiones
 	public ConnectionFactory() {
 		ComboPooledDataSource pooledDataSource = new ComboPooledDataSource();  //variable local tipo ComboPooledDataSource para instanciar la misma pool
-		pooledDataSource.setJdbcUrl("jdbc:mysql://localhost/hotel_alura?useTimeZone=true&serverTimeZone=UTC"); //url del servidor
-		pooledDataSource.setUser("root"); //username
-		pooledDataSource.setPassword("Gianpabl015()"); //password
+		pooledDataSource.setJdbcUrl("your jdbc database url"); //url del servidor
+		pooledDataSource.setUser("your user"); //username
+		pooledDataSource.setPassword("your password"); //password
 		pooledDataSource.setMaxPoolSize(10); //conexiones maximas
 		
 		this.datasource = pooledDataSource; //este datasource pertenece al variable private datasource
