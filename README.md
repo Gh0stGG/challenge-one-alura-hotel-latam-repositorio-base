@@ -4,4 +4,6 @@ Realize varias modificaciones al frontend ya que para que tuviera botones para v
 
 en este repositorio se encuentra una imagen que muestra como cree la base de datos con mysql con cada variable
 
-<span>[</span><span>Base de datos</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/Gh0stGG/challenge-one-alura-hotel-latam-repositorio-base/master/db.png</span><span>)</span>
+<p align="center" >![db](https://github.com/Gh0stGG/challenge-one-alura-hotel-latam-repositorio-base/assets/131625674/fdf942fa-d828-4a2d-8fd1-da3f2d382903)
+
+</p>
